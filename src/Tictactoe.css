@@ -1,0 +1,16 @@
+.gameContainer{
+    margin-top: -60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    font-size: 45px;
+    color: rgb(199, 198, 198);
+}
+
+h3{
+    font-size: 30px;
+    margin-top: -70px;
+}
